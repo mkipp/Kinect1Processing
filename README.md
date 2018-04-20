@@ -6,4 +6,4 @@ These sketches will **not** work with Processing 3 and also - of course - not wi
 
 I developed the sketches for my course [Interaction Engineering](http://interaction.hs-augsburg.de) at Augsburg University of Applied Sciences.
 
-*2018 Michael Kipp*
+*(c) 2018 Michael Kipp*
