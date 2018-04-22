@@ -6,9 +6,21 @@ These sketches will **not** work with Processing 3 and also - of course - not wi
 
 I developed the sketches for my course [Interaction Engineering](http://interaction.hs-augsburg.de) at Augsburg University of Applied Sciences.
 
-![Screenshot Kinect1Interaction2D](img/kinect-interact.png)
+## Kinect1Joints
+
+Very simple sketch to visualize some of the joints you get from the Kinect.
 
 ![Screenshot Kinect1Joints](img/kinect-joints.png)
+
+## Kinect1Interaction2D
+
+Lets you interact with rectangles and circles on a 2D plane. Look at my course notes for more information.
+
+![Screenshot Kinect1Interaction2D](img/kinect-interact.png)
+
+## Kinect1Recorder
+
+This sketch allows you to record a piece of motion by hitting the ENTER key (once for starting, once more for stopping). You can playback your recording with the SPACE key. There can only be one motion sequence stored at any time. 
 
 ![Screenshot Kinect1Recorder](img/kinect-play.png)
 
