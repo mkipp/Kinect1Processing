@@ -6,4 +6,12 @@ These sketches will **not** work with Processing 3 and also - of course - not wi
 
 I developed the sketches for my course [Interaction Engineering](http://interaction.hs-augsburg.de) at Augsburg University of Applied Sciences.
 
+![Screenshot Kinect1Interaction2D](img/kinect-interact.png)
+
+![Screenshot Kinect1Joints](img/kinect-joints.png)
+
+![Screenshot Kinect1Recorder](img/kinect-play.png)
+
+![Screenshot 2 Kinect1Recorder](img/kinect-record.png)
+
 *(c) 2018 Michael Kipp*
