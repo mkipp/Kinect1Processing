@@ -4,7 +4,7 @@ Sketches for **Processing 2** with **Kinect v1**. They require the **SimpleOpenN
 
 These sketches will **not** work with Processing 3 and also - of course - not with the Kinect v2.
 
-I developed the sketches for my course [Interaction Engineering](http://interaction.hs-augsburg.de) at Augsburg University of Applied Sciences.
+I developed these sketches for my course [Interaction Engineering](http://interaction.hs-augsburg.de) at Augsburg University of Applied Sciences, as explained in my [Kinect chapter](http://michaelkipp.de/interaction/kinect.html) (German) of my course notes.
 
 ## Kinect1Joints
 
@@ -20,10 +20,10 @@ Lets you interact with rectangles and circles on a 2D plane. Look at my course n
 
 ## Kinect1Recorder
 
-This sketch allows you to record a piece of motion by hitting the ENTER key (once for starting, once more for stopping). You can playback your recording with the SPACE key. There can only be one motion sequence stored at any time. 
+This sketch allows you to record a piece of motion by hitting the ENTER key (once for starting, once more for stopping). You can playback your recording with the SPACE key. There can only be one motion sequence stored at any time.
 
 ![Screenshot Kinect1Recorder](img/kinect-play.png)
 
 ![Screenshot 2 Kinect1Recorder](img/kinect-record.png)
 
-*(c) 2018 Michael Kipp*
+*(c) 2018 [Michael Kipp](http://michaelkipp.de)*
